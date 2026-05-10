@@ -3,7 +3,7 @@ export default function Footer(): React.JSX.Element {
 
   return (
     <footer>
-      <div className="footer-text">NEERAJ TANGARIYA · REACT / RN DEVELOPER</div>
+      <div className="footer-text">NEERAJ TANGARIYA · FULL-STACK DEVELOPER</div>
       <div className="footer-copy">© {year} — Dehradun, IN</div>
     </footer>
   );

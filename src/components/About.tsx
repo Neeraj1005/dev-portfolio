@@ -39,7 +39,7 @@ export default function About(): React.JSX.Element {
             <div className="t-comment">// Developer profile</div>
             <div><span className="t-key">const</span> <span className="t-str">developer</span> = {'{'}</div>
             <div>&nbsp;&nbsp;<span className="t-key">name</span>: <span className="t-val">&quot;Neeraj Tangariya&quot;</span>,</div>
-            <div>&nbsp;&nbsp;<span className="t-key">role</span>: <span className="t-val">&quot;React / RN Dev&quot;</span>,</div>
+            <div>&nbsp;&nbsp;<span className="t-key">role</span>: <span className="t-val">&quot;Full-Stack Developer&quot;</span>,</div>
             <div>&nbsp;&nbsp;<span className="t-key">location</span>: <span className="t-val">&quot;Dehradun, IN&quot;</span>,</div>
             <div>&nbsp;&nbsp;<span className="t-key">experience</span>: <span className="t-str">6</span>,</div>
             <div>&nbsp;&nbsp;<span className="t-key">education</span>: <span className="t-val">&quot;M.Tech CSE&quot;</span>,</div>

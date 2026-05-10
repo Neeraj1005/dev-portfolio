@@ -49,7 +49,7 @@ export default function Hero(): React.JSX.Element {
           <span className="accent">TANGARIYA</span>
         </h1>
         <p className="hero-desc">
-          <span>React &amp; React Native Developer</span> with 6+ years of crafting<br />
+          <span>Full-Stack Developer</span> with 6+ years of crafting<br />
           high-performance mobile &amp; web applications.<br />
           Dehradun, Uttarakhand<span className="blink">_</span>
         </p>
